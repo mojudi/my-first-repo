@@ -24,4 +24,4 @@ I love delicacies from these restaurants:
 
 The best way to get in touch with me is [on gmail](micahoj@gmail.com)
 
-nano README.md
+Thank you
